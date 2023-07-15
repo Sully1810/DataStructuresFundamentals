@@ -5,7 +5,7 @@
 ### What is a stack?
 A stack is a data structure. 
 Whether something is a stack is determined by the order that items are added or removed. 
-The order is based on the principle "Last In, First Out".
+The order is based on the principle **"Last In, First Out"**.
 
 ### How does the stack work?
 To make our principle of "Last In, First Out" easier to understand, think of a stack of books.
